@@ -1,3 +1,4 @@
+# Программа считает количество нулей, на которые заканчивается факториал
 n = int(input("Введите число: "))
 
 factorial = 1
@@ -17,5 +18,5 @@ for i in new_string[:]:
 
 print(count)
 
-print(string)
-print(new_string)
+# print(string)
+# print(new_string)
